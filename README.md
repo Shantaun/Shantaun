@@ -35,4 +35,4 @@ Transitioning from data annotation and project operations into IT and Cloud Engi
 ## Connect With Me
 
 - LinkedIn: linkedin.com/in/shantanubshinde
-- GitHub: github.com/Shantaun
+- GitHub: github.com/ShantanuBShinde
