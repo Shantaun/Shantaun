@@ -26,7 +26,7 @@ Currently, I am building my skills in IT and Cloud technologies.
 
 ## Professional Experience
 
-Currently working as a Supervisor, managing a 40+ member team and coordinating task allocation, productivity, quality and project deliverables.
+Currently working as a Supervisor, contributing to task coordination, productivity monitoring, quality management, issue resolution and timely project delivery.
 
 ## Career Goal
 
@@ -34,5 +34,5 @@ Transitioning from data annotation and project operations into IT and Cloud Engi
 
 ## Connect With Me
 
-- LinkedIn: linkedin.com/in/shantanubshinde
-- GitHub: github.com/ShantanuBShinde
+- LinkedIn: [linkedin.com/in/shantanubshinde](https://www.linkedin.com/in/shantanubshinde/)
+- GitHub: [github.com/ShantanuBShinde](https://github.com/ShantanuBShinde)
